@@ -1,0 +1,210 @@
+Duplicate Mystring: clone
+Duplicate Mystring: duplicate
+Duplicate Mystring: resting
+Duplicate Mystring: triplet
+Duplicate Mystring: triplet
+Duplicate Mystring: twin
+Duplicate Mystring: two
+Number of words in the dictionary = 24048
+Percent of hash table buckets used = 100.00%
+Average non-empty bucket size = 16.03
+Largest bucket size = 30
+Not found in the dictionary: consecration
+Not found in the dictionary: induction
+Not found in the dictionary: presidency
+Not found in the dictionary: candor
+Not found in the dictionary: impels
+Not found in the dictionary: preeminently
+Not found in the dictionary: boldly
+Not found in the dictionary: conditions
+Not found in the dictionary: nameless
+Not found in the dictionary: paralyzes
+Not found in the dictionary: retreat
+Not found in the dictionary: frankness
+Not found in the dictionary: vigor
+Not found in the dictionary: understanding
+Not found in the dictionary: convinced
+Not found in the dictionary: yours
+Not found in the dictionary: difficulties
+Not found in the dictionary: levels
+Not found in the dictionary: taxes
+Not found in the dictionary: ability
+Not found in the dictionary: kinds
+Not found in the dictionary: curtailment
+Not found in the dictionary: withered
+Not found in the dictionary: leaves
+Not found in the dictionary: markets
+Not found in the dictionary: savings
+Not found in the dictionary: thousands
+Not found in the dictionary: families
+Not found in the dictionary: existence
+Not found in the dictionary: equally
+Not found in the dictionary: number
+Not found in the dictionary: realities
+Not found in the dictionary: distress
+Not found in the dictionary: substance
+Not found in the dictionary: locusts
+Not found in the dictionary: compared
+Not found in the dictionary: perils
+Not found in the dictionary: forefathers
+Not found in the dictionary: conquered
+Not found in the dictionary: believed
+Not found in the dictionary: thankful
+Not found in the dictionary: offers
+Not found in the dictionary: multiplied
+Not found in the dictionary: primarily
+Not found in the dictionary: mankind's
+Not found in the dictionary: goods
+Not found in the dictionary: stubbornness
+Not found in the dictionary: incompetence
+Not found in the dictionary: practices
+Not found in the dictionary: unscrupulous
+Not found in the dictionary: indicted
+Not found in the dictionary: rejected
+Not found in the dictionary: hearts
+Not found in the dictionary: minds
+Not found in the dictionary: outworn
+Not found in the dictionary: proposed
+Not found in the dictionary: lending
+Not found in the dictionary: stripped
+Not found in the dictionary: resorted
+Not found in the dictionary: exhortations
+Not found in the dictionary: tearfully
+Not found in the dictionary: self-seekers
+Not found in the dictionary: seats
+Not found in the dictionary: civilization
+Not found in the dictionary: truths
+Not found in the dictionary: happiness
+Not found in the dictionary: achievement
+Not found in the dictionary: stimulation
+Not found in the dictionary: longer
+Not found in the dictionary: profits
+Not found in the dictionary: unto
+Not found in the dictionary: abandonment
+Not found in the dictionary: valued
+Not found in the dictionary: likeness
+Not found in the dictionary: wrongdoing
+Not found in the dictionary: thrives
+Not found in the dictionary: honor
+Not found in the dictionary: sacredness
+Not found in the dictionary: protection
+Not found in the dictionary: unselfish
+Not found in the dictionary: unsolvable
+Not found in the dictionary: wisely
+Not found in the dictionary: courageously
+Not found in the dictionary: recruiting
+Not found in the dictionary: treating
+Not found in the dictionary: employment
+Not found in the dictionary: projects
+Not found in the dictionary: reorganize
+Not found in the dictionary: resources
+Not found in the dictionary: overbalance
+Not found in the dictionary: population
+Not found in the dictionary: centers
+Not found in the dictionary: engaging
+Not found in the dictionary: redistribution
+Not found in the dictionary: better
+Not found in the dictionary: fitted
+Not found in the dictionary: products
+Not found in the dictionary: output
+Not found in the dictionary: cities
+Not found in the dictionary: preventing
+Not found in the dictionary: realistically
+Not found in the dictionary: growing
+Not found in the dictionary: foreclosure
+Not found in the dictionary: homes
+Not found in the dictionary: drastically
+Not found in the dictionary: reduced
+Not found in the dictionary: activities
+Not found in the dictionary: scattered
+Not found in the dictionary: communications
+Not found in the dictionary: utilities
+Not found in the dictionary: definitely
+Not found in the dictionary: ways
+Not found in the dictionary: talking
+Not found in the dictionary: quickly
+Not found in the dictionary: towards
+Not found in the dictionary: safeguards
+Not found in the dictionary: evils
+Not found in the dictionary: investments
+Not found in the dictionary: speculation
+Not found in the dictionary: people's
+Not found in the dictionary: lines
+Not found in the dictionary: detailed
+Not found in the dictionary: fulfillment
+Not found in the dictionary: assistance
+Not found in the dictionary: program
+Not found in the dictionary: making
+Not found in the dictionary: outgo
+Not found in the dictionary: vastly
+Not found in the dictionary: establishment
+Not found in the dictionary: favor
+Not found in the dictionary: readjustment
+Not found in the dictionary: guides
+Not found in the dictionary: nationally
+Not found in the dictionary: narrowly
+Not found in the dictionary: nationalistic
+Not found in the dictionary: consideration
+Not found in the dictionary: elements
+Not found in the dictionary: parts
+Not found in the dictionary: permanently
+Not found in the dictionary: strongest
+Not found in the dictionary: resolutely
+Not found in the dictionary: does
+Not found in the dictionary: others
+Not found in the dictionary: agreements
+Not found in the dictionary: correctly
+Not found in the dictionary: realized
+Not found in the dictionary: trained
+Not found in the dictionary: becomes
+Not found in the dictionary: effective
+Not found in the dictionary: makes
+Not found in the dictionary: aims
+Not found in the dictionary: pledging
+Not found in the dictionary: purposes
+Not found in the dictionary: evoked
+Not found in the dictionary: times
+Not found in the dictionary: armed
+Not found in the dictionary: unhesitatingly
+Not found in the dictionary: inherited
+Not found in the dictionary: ancestors
+Not found in the dictionary: arrangement
+Not found in the dictionary: proved
+Not found in the dictionary: ever
+Not found in the dictionary: wars
+Not found in the dictionary: hoped
+Not found in the dictionary: legislative
+Not found in the dictionary: undelayed
+Not found in the dictionary: prepared
+Not found in the dictionary: recommend
+Not found in the dictionary: courses
+Not found in the dictionary: remaining
+Not found in the dictionary: invaded
+Not found in the dictionary: reposed
+Not found in the dictionary: consciousness
+Not found in the dictionary: seeking
+Not found in the dictionary: rounded
+Not found in the dictionary: registered
+Not found in the dictionary: asked
+Not found in the dictionary: direction
+Not found in the dictionary: humbly
+Total mispelled words = 179
+
+********************  Part 2  **********************
+
+Time to construct Dictionary of type class Myhash<class Mystring,1500> = 0.02
+Spellcheck time using Dictionary type: class Myhash<class Mystring,1500> = 0.00
+Total misspelled words = Total misspelled words = 179
+
+Time to construct Dictionary of type class Myvector<class Mystring> = 0.01
+Spellcheck time using Dictionary type: class Myvector<class Mystring> = 0.33
+Total misspelled words = Total misspelled words = 179
+
+Time to construct Dictionary of type class Mylist<class Mystring> = 0.01
+Spellcheck time using Dictionary type: class Mylist<class Mystring> = 0.34
+Total misspelled words = Total misspelled words = 179
+
+Time to construct Dictionary of type class Myset<class Mystring> = 0.02
+Spellcheck time using Dictionary type: class Myset<class Mystring> = 0.46
+Total misspelled words = Total misspelled words = 179
+
